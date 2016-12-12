@@ -12,6 +12,7 @@ namespace prot1
 {
     public partial class Form1 : Form
     {
+//это просто комментарий
         public Form3 f3 = new Form3();
         public Form2 f2 = new Form2(); 
         public Form1()
