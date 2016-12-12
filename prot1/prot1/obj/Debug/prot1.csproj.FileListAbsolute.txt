@@ -1,0 +1,15 @@
+D:\Учеба\ТРПО\Прототип\prot1\prot1\bin\Debug\prot1.exe.config
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.csprojResolveAssemblyReference.cache
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Form1.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Form3.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Properties.Resources.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.csproj.GenerateResource.Cache
+D:\Учеба\ТРПО\Прототип\prot1\prot1\bin\Debug\prot1.exe
+D:\Учеба\ТРПО\Прототип\prot1\prot1\bin\Debug\prot1.pdb
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.ABCan.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Dest.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Dib_siman.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.Form2.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.XYZan.resources
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.exe
+D:\Учеба\ТРПО\Прототип\prot1\prot1\obj\Debug\prot1.pdb
